@@ -1,5 +1,5 @@
 body {
-    background-color: #2e4a8b; /* Azul de tu etiqueta */
+    background-color: #2E4093; /* Azul de tu etiqueta */
     color: white;
     font-family: 'Helvetica', sans-serif;
     display: flex;
@@ -43,7 +43,7 @@ h1 { margin-bottom: 5px; letter-spacing: 2px; }
 
 .btn:hover {
     background: white;
-    color: #2e4a8b;
+    color: #2E4093;
 }
 
 footer { margin-top: 40px; font-size: 0.8rem; opacity: 0.7; }
